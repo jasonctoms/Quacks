@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="hello">Hello World, Click Me!</string>
+	<string name="app_name">Quacks</string>
+	<string name="pushText">Push Order</string>
+	<string name="popText">Pop Order</string>
+</resources>
